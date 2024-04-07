@@ -27,7 +27,7 @@ _(just choose the questions you would like to answer and make it concise)_
     Answer: Shopee’s vibrancy and bright orange color scheme make the whole platform feel like full of clutter, combined with pop-up advertisements that cover other important aspects. On the other hand, Lazada is much easier in the eyes and has a simplistic approach when it comes to the usage of elements and white spaces. 
     
 -   Comment on the responsiveness of both websites across different devices.<br/>
-    Answer: The difference between the two platforms, in terms of responsiveness on various devices, is that Lazada offers a seamless experience on desktop and mobile. Shopee may be easy packed with what the users need once the app/website was opened, however, the speed in loading all elements takes quite some time. I think it is because of the interface looks packed and messy with all the unnecessary things.
+    Answer: The difference between the two platforms, in terms of responsiveness on various devices, is that Lazada offers a seamless experience on desktop and mobile. Shopee may be easy packed with what the users need once the app/website was opened, however, the speed in loading all elements takes quite some time. I think it is because the interface looks packed and messy with all the unnecessary things.
     
 -   Which do you think is better when it comes to the visual aspect of the website?<br/>
     Answer: I preferred Lazada in terms of the visual aspects since I think the color scheme is commendable when it comes to pulling the user into buying.
